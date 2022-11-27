@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["thebigg <yunior.eury@gmail.com>"]
 
 [dependencies]
+gpio-cdev = "0.4"
