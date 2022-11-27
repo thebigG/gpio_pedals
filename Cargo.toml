@@ -4,7 +4,12 @@ version = "0.1.0"
 authors = ["thebigg <yunior.eury@gmail.com>"]
 edition = "2021"
 
+
 [dependencies]
 gpio-cdev = "0.5.1"
 quicli = "0.4"
 structopt = "0.3.26"
+
+
+[profile.release]
+lto = true
