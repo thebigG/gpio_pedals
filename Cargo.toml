@@ -1,0 +1,6 @@
+[package]
+name = "gpio_pedals"
+version = "0.1.0"
+authors = ["thebigg <yunior.eury@gmail.com>"]
+
+[dependencies]
